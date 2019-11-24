@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\WindowsFormsInterface\WindowsFormsInterface\bin\Debug\WindowsFormsInterface.exe.config
+C:\Users\Dell\source\repos\WindowsFormsInterface\WindowsFormsInterface\bin\Debug\WindowsFormsInterface.exe
+C:\Users\Dell\source\repos\WindowsFormsInterface\WindowsFormsInterface\bin\Debug\WindowsFormsInterface.pdb
+C:\Users\Dell\source\repos\WindowsFormsInterface\WindowsFormsInterface\obj\Debug\WindowsFormsInterface.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\WindowsFormsInterface\WindowsFormsInterface\obj\Debug\WindowsFormsInterface.Form1.resources
+C:\Users\Dell\source\repos\WindowsFormsInterface\WindowsFormsInterface\obj\Debug\WindowsFormsInterface.Properties.Resources.resources
+C:\Users\Dell\source\repos\WindowsFormsInterface\WindowsFormsInterface\obj\Debug\WindowsFormsInterface.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\WindowsFormsInterface\WindowsFormsInterface\obj\Debug\WindowsFormsInterface.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\WindowsFormsInterface\WindowsFormsInterface\obj\Debug\WindowsFormsInterface.exe
+C:\Users\Dell\source\repos\WindowsFormsInterface\WindowsFormsInterface\obj\Debug\WindowsFormsInterface.pdb
